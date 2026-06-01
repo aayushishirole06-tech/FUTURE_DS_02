@@ -179,7 +179,7 @@ Add your dashboard screenshot here.
 Example:
 
 ```md
-![Dashboard Screenshot](Customer_Churn_Analytics.png)
+![Dashboard Screenshot](Customer_Churn_Analytics_Dashboard.png)
 ```
 
 ---
