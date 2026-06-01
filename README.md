@@ -174,14 +174,7 @@ Based on the analysis, the following recommendations are suggested:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here.
-
-Example:
-
-```md
 ![Dashboard Screenshot](Customer_Churn_Analytics_Dashboard.png)
-```
-
 ---
 
 ## Project Files Included
